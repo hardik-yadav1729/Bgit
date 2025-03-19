@@ -56,11 +56,11 @@ If you're interested in finding how bgit works, take a look at [ARCHITECTURE.md]
 
 ## Contributing
 
-Contributions to bgit are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [bgit GitHub repository](https://github.com/Gyan172004/bgit).
+Contributions to bgit are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [bgit GitHub repository](https://github.com/hardik-yadav1729/Bgit).
 
 ## License
 
-bgit is licensed under the MIT License. See the [LICENSE](https://github.com/Gyan172004/bgit/blob/main/LICENSE) file for details.
+bgit is licensed under the MIT License. See the [LICENSE](https://github.com/hardik-yadav1729/bgit/blob/main/LICENSE) file for details.
 
 ## Disclaimer
 
